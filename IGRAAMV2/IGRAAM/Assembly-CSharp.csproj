@@ -288,6 +288,9 @@
     <Reference Include="UnityEngine.SpatialTracking">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2018.3.14f1/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
     </Reference>
+    <Reference Include="CoherentNoise">
+      <HintPath>D:/Users/hubbert.gun8307/Documents/GitHub/IGRAAM-Git/IGRAAMV2/IGRAAM/Assets/WorldBuilder/Scripts/Helpers/CoherentNoise.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.Analytics.Editor">
       <HintPath>D:/Users/hubbert.gun8307/Documents/GitHub/IGRAAM-Git/IGRAAMV2/IGRAAM/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
     </Reference>
@@ -296,9 +299,6 @@
     </Reference>
     <Reference Include="Unity.Analytics.Tracker">
       <HintPath>D:/Users/hubbert.gun8307/Documents/GitHub/IGRAAM-Git/IGRAAMV2/IGRAAM/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
-    </Reference>
-    <Reference Include="CoherentNoise">
-      <HintPath>D:/Users/hubbert.gun8307/Documents/GitHub/IGRAAM-Git/IGRAAMV2/IGRAAM/Assets/WorldBuilder/Scripts/Helpers/CoherentNoise.dll</HintPath>
     </Reference>
     <Reference Include="netstandard">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2018.3.14f1/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll</HintPath>
