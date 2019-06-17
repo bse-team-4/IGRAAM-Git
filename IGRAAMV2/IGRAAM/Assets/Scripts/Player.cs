@@ -5,7 +5,8 @@ using UnityEngine;
 public class Player : MonoBehaviour
 {
     //Variables
-    public float movementSpeed; 
+    public float movementSpeed;
+    public int GoldAmount = 100;
 
     //Methods
     void Update()
