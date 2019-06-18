@@ -63,11 +63,14 @@
     <Compile Include="Assets\Scripts\AI people.cs" />
     <Compile Include="Assets\Scripts\Camera.cs" />
     <Compile Include="Assets\Scripts\EnemyAI.cs" />
+    <Compile Include="Assets\Scripts\FollowPlayer.cs" />
     <Compile Include="Assets\Scripts\MoveTo.cs" />
     <Compile Include="Assets\Scripts\Npc.cs" />
     <Compile Include="Assets\Scripts\Party Member.cs" />
     <Compile Include="Assets\Scripts\Player.cs" />
+    <Compile Include="Assets\Scripts\PlayerMove.cs" />
     <Compile Include="Assets\Scripts\SEnemyAI.cs" />
+    <Compile Include="Assets\Scripts\Tags.cs" />
     <Compile Include="Assets\Scripts\tonextscene.cs" />
     <Compile Include="Assets\Scripts\totown.cs" />
     <Compile Include="Assets\WorldBuilder\Scripts\Heightmapbuilder.cs" />

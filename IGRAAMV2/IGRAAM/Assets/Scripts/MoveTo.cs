@@ -16,7 +16,7 @@ public class MoveTo : MonoBehaviour
     void Start()
     {
         agent = GetComponent<NavMeshAgent>();
-        HalvingVector.Set(0.5f, 0.5f, 1f);
+        HalvingVector.Set(100f, 100f, 1f);
         
     }
 
